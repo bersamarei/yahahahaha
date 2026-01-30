@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Confess Crush",
     introTitle: 'Hai maniesss!',
     introDesc: `jadi gini aku ga tau nih mau ngapain buat nembah jadi ku bikin ini aja deh yaa yang simpel ajahh hehe`,
-    btnIntro: 'Dencet Dong',
+    btnIntro: 'Pencet Dong',
     title: 'mau jadi pacar aku ga maniess 🥰',
     desc: 'ku tantang bilang enggak kalo bisa ',
     btnYes: 'Okii mauu <33',
